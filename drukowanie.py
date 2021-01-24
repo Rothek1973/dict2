@@ -70,3 +70,4 @@ def drukow():
 #drukow()
 
 print("I have done")
+print("I am checking out it")
