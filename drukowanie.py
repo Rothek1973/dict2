@@ -68,3 +68,5 @@ def drukow():
     file_path1=("C:\\Users\\mltea\\OneDrive\\Pulpit\\nowik.xlsx")
     os.startfile(file_path1,"print")
 #drukow()
+
+print("I have done")
