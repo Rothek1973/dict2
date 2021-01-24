@@ -71,3 +71,4 @@ def drukow():
 
 print("I have done")
 print("I am checking out it")
+print("I try it")
